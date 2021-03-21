@@ -1,0 +1,16 @@
+cache directory                     /ccache/ccache
+primary config                      /ccache/ccache/ccache.conf
+secondary config (readonly)         /etc/ccache.conf
+stats updated                       Mon Jul 26 05:40:39 2021
+stats zeroed                        Wed Jul 21 23:45:29 2021
+cache hit (direct)                  6386
+cache hit (preprocessed)              86
+cache miss                          3602
+cache hit rate                     64.24 %
+called for link                     1781
+called for preprocessing            7324
+preprocessor error                    38
+cleanups performed                     3
+files in cache                      5557
+cache size                         477.6 MB
+max cache size                     768.0 MB
